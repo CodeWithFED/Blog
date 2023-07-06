@@ -1,0 +1,52 @@
+/* Typography */
+
+html {
+  font-size: 62.5%;
+}
+body {
+  font-family: "lato", sans-serif;
+  margin: 20px;
+  font-size: 1.7rem;
+  line-height: 1.5;
+  color: #222;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Open Sans", sans-serif;
+  color: #000;
+  letter-spacing: -2px;
+}
+.lead_p {
+  font-family: "Noto Serif", serif;
+  font-size: 2.299rem;
+}
+h1 {
+  line-height: 1.1;
+  font-size: 5.653rem;
+}
+h2 {
+  font-size: 4.298rem;
+}
+h3 {
+  font-size: 3.027rem;
+}
+
+/* layout */
+
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.banner {
+  width: 100%;
+}
+ul {
+  line-height: 1.6;
+}
+ol li {
+  margin-bottom: 2.2rem;
+}
